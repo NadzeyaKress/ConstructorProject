@@ -21,7 +21,6 @@
                 {
                     _home = value;
                 }
-
             }
         }
                    
@@ -37,9 +36,9 @@
                 {
                     _flat = value;
                 }
-
             }
         }
+
         public Address (string city, string street, int home, int flat)
         {
             City = city;
